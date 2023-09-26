@@ -1,10 +1,10 @@
 # AWS Serverless Ride Request Application using the following AWS Services:
 
-Amplify
-Cognito
-Lambda 
-API Gateway
-DynamoDB
+### AWS Amplify 
+### AWS Cognito
+### AWS Lambda 
+### AWS API Gateway
+### AWS DynamoDB
 
 
 
